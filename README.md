@@ -1,1 +1,3 @@
-# dv_bank_frontend
+Project Da Vinci
+================
+Home of DV Bank's frontend developers!
